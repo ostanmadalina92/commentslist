@@ -6,7 +6,7 @@ import styled, { createGlobalStyle } from "styled-components";
 
 const CommentListDiv = styled.div`
   font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #333;
+  color: red;
   display: inline-block;
   vertical-align: top;
   width: 265px;
